@@ -1,0 +1,15 @@
+{
+  "name": "MasterTron Token List",
+  "logoURI": "https://www.dropbox.com/t/FNplDSvg6yFFiTF0",
+  "timestamp": 1720000000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TGz8gG7rn5n129Jci5AvABaEHHJCamLr4B",
+      "name": "Tether Tron USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://www.dropbox.com/t/FNplDSvg6yFFiTF0"
+    }
+  ]
+}
